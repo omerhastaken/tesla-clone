@@ -8,7 +8,7 @@ function Home() {
     <Section
         title="METIN 1"
         description="..."
-        leftBtnText="Custom Order"
+        leftBtnText="More Info"
         rightBtnText="Existing Inventory"
         />
     <Section 
