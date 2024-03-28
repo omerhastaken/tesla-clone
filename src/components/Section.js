@@ -39,17 +39,17 @@ const Wrap = styled.div`
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url('/images/model-s.jpg');
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    background-image: ${props => `url("/images/${props.bgImage}")`}
+    background-color: #330099;
+
 
 `
 const ItemText = styled.div`
-padding-top: 15vh;
-text-align: center;
+    padding-top: 15vh;
+    text-align: center;
 `
 
 const ButtonGroup = styled.div`
