@@ -12,9 +12,8 @@ function Home() {
         rightBtnText="Existing Inventory"
         />
     <Section 
-    title="Model 3"
-    description="Order Online for Touchless Delivery"
-    backgroundImg="model-3.jpg"
+    title="METIN 2"
+    description="..."
     leftBtnText="Custom Order"
     rightBtnText="Existing Inventory"
     />
